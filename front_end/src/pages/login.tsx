@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Input from "./components/Input.tsx";
+import Input from "../components/Input.tsx";
 
 const Login = () => {
   const [email, setEmail] = useState("");
