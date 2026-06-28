@@ -1,4 +1,6 @@
 import { Link } from "react-router";
+import Header from "../components/Header";
+
 
 const Home = () => {
 
